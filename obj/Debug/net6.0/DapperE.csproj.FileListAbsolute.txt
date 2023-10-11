@@ -74,3 +74,4 @@ C:\Users\IVAN GONZALEZ\source\repos\DapperE\DapperE\bin\Debug\net6.0\runtimes\wi
 C:\Users\IVAN GONZALEZ\source\repos\DapperE\DapperE\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\IVAN GONZALEZ\source\repos\DapperE\DapperE\bin\Debug\net6.0\ConexBD.dll
 C:\Users\IVAN GONZALEZ\source\repos\DapperE\DapperE\bin\Debug\net6.0\ConexBD.pdb
+C:\Users\IVAN GONZALEZ\source\repos\DapperE\DapperE\bin\Debug\net6.0\Autofac.dll

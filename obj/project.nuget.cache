@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Q9V4WNsMkqPpjBJoAV9cy2mdAP868mEFFCtiiKuOg+QR6vz+eiyD+F8md5tyf8qIoh4cF+4lBKnV9g95GA8+7A==",
+  "dgSpecHash": "mid+CiEQS+BSAenUHWqQih2D83Cfie2C/x5w3TX154I+9hwfSDka60N2dghZo5tQvX+WMMosLfZ1OoUqYhdCPw==",
   "success": true,
   "projectFilePath": "C:\\Users\\IVAN GONZALEZ\\source\\repos\\DapperE\\DapperE\\DapperE.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\IVAN GONZALEZ\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
     "C:\\Users\\IVAN GONZALEZ\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\IVAN GONZALEZ\\.nuget\\packages\\azure.identity\\1.8.0\\azure.identity.1.8.0.nupkg.sha512",
     "C:\\Users\\IVAN GONZALEZ\\.nuget\\packages\\dapper\\2.1.4\\dapper.2.1.4.nupkg.sha512",
